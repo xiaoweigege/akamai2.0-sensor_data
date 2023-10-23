@@ -1,4 +1,3 @@
-Here's the translation:
 
 ## 1. Introduction
 Akamai's anti-crawling system is a product designed to protect websites from attacks and ensure API data security. Currently, it has two methods of protection. One is protection at the HTTPS request level, and the other is to collect current browser information for risk control interception. Different sites and interfaces have varying degrees of risk control interception.
