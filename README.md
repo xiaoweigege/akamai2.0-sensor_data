@@ -1,5 +1,5 @@
 
-**其他语言版本: [English](README-EN.md), [中文](README-ZH.md).**
+**Read this in other languages: [English](README-EN.md), [中文](README-ZH.md).**
 
 
 ## 1. Introduction
