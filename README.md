@@ -48,5 +48,5 @@ wechat: **King_ww__**
 
 qq: **240942649**
 
-telegram: **[xwggnp](https://t.me/xwggnp) **
+telegram: [xwggnp](https://t.me/xwggnp) 
 
