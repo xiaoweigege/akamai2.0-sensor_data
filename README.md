@@ -1,9 +1,8 @@
-![image](https://github.com/user-attachments/assets/f3ec6f56-9bbd-4528-b082-7a3fc538925d)
 **Read this in other languages: [English](README-EN.md), [中文](README-ZH.md).**
 
 ## Update Log
 Akamai has updated to version 3, and my API now supports version 3 of Akamai.
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/f3ec6f56-9bbd-4528-b082-7a3fc538925d)
 
 
 ## 1. Introduction
