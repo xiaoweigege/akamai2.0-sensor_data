@@ -6,6 +6,8 @@ Akamai has updated to version 3, and my API now supports version 3 of Akamai.
 Telegram: [xwggnp](https://t.me/xwggnp) 
 
 ### A new sbsd type has been added
+![image](https://github.com/user-attachments/assets/27dd5e9c-d880-4b84-8dab-8ef9ae243b61)
+
 
 ## 1. Introduction
 Akamai's anti-crawling system is a product designed to protect websites from attacks and ensure API data security. Currently, it has two methods of protection. One is protection at the HTTPS request level, and the other is to collect current browser information for risk control interception. Different sites and interfaces have varying degrees of risk control interception..
